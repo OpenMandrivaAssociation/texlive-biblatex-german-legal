@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-german-legal
 Version:	56939
-Release:	1
+Release:	2
 Summary:	Comprehensive citation style for German legal texts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-german-legal
