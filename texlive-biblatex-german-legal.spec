@@ -3,7 +3,7 @@ Version:	66461
 Release:	1
 Summary:	Comprehensive citation style for German legal texts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-german-legal
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-german-legal
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-german-legal.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-german-legal.doc.r%{version}.tar.xz
